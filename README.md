@@ -1,2 +1,4 @@
 # opensource
-PayInOne open source their internal tools to improve remote work transparency and efficiency
+PayInOne open source its internal tools to improve remote work transparency and efficiency
+
+For more information, visit [PayInOne](https://payin.one)
